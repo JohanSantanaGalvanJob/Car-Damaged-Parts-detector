@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Car-Damage', 'Dent', 'Glass_Break', 'Scratch']
+
+roboflow:
+  workspace: hadi-hassan-wjfp4
+  project: car-parts-detection-puqz7
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hadi-hassan-wjfp4/car-parts-detection-puqz7/dataset/2
