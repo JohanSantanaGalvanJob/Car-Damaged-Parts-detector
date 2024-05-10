@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: https://github.com/JohanSantanaGalvanJob/Car-Damaged-Parts-detector/tree/main/CarPartsDetectionDataset/train/images
+val: https://github.com/JohanSantanaGalvanJob/Car-Damaged-Parts-detector/tree/main/CarPartsDetectionDataset/valid/images
+test: https://github.com/JohanSantanaGalvanJob/Car-Damaged-Parts-detector/tree/main/CarPartsDetectionDataset/test/images
 
 nc: 4
 names: ['Car-Damage', 'Dent', 'Glass_Break', 'Scratch']
