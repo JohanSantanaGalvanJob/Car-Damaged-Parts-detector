@@ -1,6 +1,6 @@
-train: ./train/images
-val: ./valid/images
-test: ./test/images
+train: /content/Car-Damaged-Parts-detector/CarPartsDetectionDataset/train
+val: /content/Car-Damaged-Parts-detector/CarPartsDetectionDataset/val
+test: /content/Car-Damaged-Parts-detector/CarPartsDetectionDataset/test
 
 nc: 4
 names: ['Car-Damage', 'Dent', 'Glass_Break', 'Scratch']
