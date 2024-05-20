@@ -1,4 +1,0 @@
-Car-Damage
-Dent
-Glass_Break
-Scratch
